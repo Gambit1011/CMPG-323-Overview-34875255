@@ -3,6 +3,11 @@ CMPG 323 Overview
 
 ## constuct Project goals
 
+### setup Lables
+
+
+### Setup Mile stones
+
 ## create Repositories
 for diffrent projects
 
