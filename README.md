@@ -68,7 +68,8 @@ A strategy that is not really a branching strategy but rather trunks into the ma
 MY STRATIGY
 I will be combining the Idees from Github flow and Gitlab Flow. in this project the developer will create a branch for each sprint/section. After that section is done it will be merged. this way the main is always available to fall back to and the main is always updated before the next Brach is made. after each Brach is merged, that Brach will be deleted.
 
-
+##.gitignore file
+Project 2 
 
 ## Project and Repository Structure
 Maybe add diagram to better see my child
