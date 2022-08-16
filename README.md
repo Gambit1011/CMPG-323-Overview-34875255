@@ -49,21 +49,21 @@ Git flow is complex branching strategy consisting of branches for
 - Release - help prepare a production release
 - Hotfix branch
 due to the many different branches, it is  complex and not suited for hour purpose
-!(https://www.flagship.io/wp-content/uploads/gitflow-branching-strategy.png)
+![Git flow](https://www.flagship.io/wp-content/uploads/gitflow-branching-strategy.png)
 
 Github Flow 
 Is a much simpler approach where Branches are made for new features and then merge back to the main, and the branch is then deleted.
 This is an approached that I used last year’s project, and it worked well. there are problems doing it this way, it is important that developers communicate to what they are working on, to minimize conflicts when merging.
-!(https://www.flagship.io/wp-content/uploads/github-flow-branching-model.jpeg)
+![Github Flow](https://www.flagship.io/wp-content/uploads/github-flow-branching-model.jpeg)
 
 GitLab Flow
 More used for big production environments where multiple levels are held of the software. branches are made and immediately afterwards, other teams will continue working on the main. these branches are pointed to dev environments.
 Will not be using a strategy like this, due to the cost implication of having different servers for different environments. I'm a one-man team for this project.
-!(https://www.flagship.io/wp-content/uploads/gitlab_flow_environment_branches.png)
+![GitLab Flow](https://www.flagship.io/wp-content/uploads/gitlab_flow_environment_branches.png)
 
 Trunk-Based 
 A strategy that is not really a branching strategy but rather trunks into the main project. Meaning the main project is almost always up to date.
-!(https://www.flagship.io/wp-content/uploads/trunk-based-development-branching-strategy.png)
+![Trunk-Based](https://www.flagship.io/wp-content/uploads/trunk-based-development-branching-strategy.png)
 
 MY STRATIGY
 I will be combining the Idees from Github flow and Gitlab Flow. in this project the developer will create a branch for each sprint/section. After that section is done it will be merged. this way the main is always available to fall back to and the main is always updated before the next Brach is made. after each Brach is merged, that Brach will be deleted.
