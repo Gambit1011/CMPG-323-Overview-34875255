@@ -23,6 +23,7 @@ The Following Repositories will be required for the 5 Phases of building our IoT
 
 ## Structure of Project 
 ![What is this](ProjectDiagrams.png)
+
 **Project 1 Overview** - outlining the 5 projects and there milestones. it will also consist of all the planning documents and structure layouts.
 
 **Project 2 Constructing an API** - to handle data transfer from database to the IoT Devices. it will interface with the database and the web application or the front end of our application.
