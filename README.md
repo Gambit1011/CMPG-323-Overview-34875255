@@ -22,7 +22,7 @@ The Following Repositories will be required for the 5 Phases of building our IoT
 **- CMPG 323 Project 5** No Application is ever complete until reporting is done- project 5 we will be constructing some reports to deliver data as Business information whereby the end users and owners of the system can make well informed decision.
 
 ## Structure of Project 
-![What is this](API_WEB_Diagram.png)
+![What is this](API_WEB_Diagram2.png)
 
 ## Branching Strategies
 Diagram
