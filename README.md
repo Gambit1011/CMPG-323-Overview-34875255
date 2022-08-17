@@ -79,15 +79,15 @@ Common Use you will ignore files and folders like:
  
 ###Project 2 and project 3
 I will mainly focus on Ignoring credentials, API Keys/Secrets and visual studio files like
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-.vs/
-msbuild.log*
-msbuild.err
-msbuild.wrn
-.vscode
+* *.suo
+* *.user
+* *.userosscache
+* *.sln.docstates
+* .vs/
+* msbuild.log*
+* msbuild.err
+* msbuild.wrn
+* .vscode
 
 ## Project and Repository Structure
 Maybe add diagram to better see my child
