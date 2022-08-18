@@ -88,8 +88,7 @@ I will mainly focus on Ignoring credentials, API Keys/Secrets and visual studio 
 * msbuild.wrn
 * .vscode
 
-## Project and Repository Structure
-Maybe add diagram to better see my child
+
 
 
 ## References
