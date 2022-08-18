@@ -92,3 +92,9 @@ I will mainly focus on Ignoring credentials, API Keys/Secrets and visual studio 
 Maybe add diagram to better see my child
 
 
+## References
+
+* Woodward, M. &amp; Biagianti, A., 2022. Include diagrams in your markdown files with mermaid. The GitHub Blog. Available at: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ [Accessed August 4, 2022]. 
+* GitHub?, H., MP, M. and MP, M., 2022. How to add images to README.md on GitHub?. [online] Stack Overflow. Available at: <https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github> [Accessed 4 August 2022].
+* Flagship.io. 2022. Git Branching Strategies: GitFlow, Github Flow, Trunk Based.... [online] Available at: <https://www.flagship.io/git-branching-strategies/> [Accessed 14 August 2022].
+* Garrett-Harris, A. and File, H., 2022. How to Use a .gitignore File | Pluralsight. [online] Pluralsight.com. Available at: <https://www.pluralsight.com/guides/how-to-use-gitignore-file> [Accessed 17 August 2022].
